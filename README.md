@@ -7,6 +7,9 @@ A Python script to analyze shell command history, count occurrences of commands,
 - Retrieves descriptions of commands using `whatis`.
 - Outputs the results to a formatted file (`history_analytics_rpt`).
 
+  ![image](https://github.com/user-attachments/assets/01e3ddba-38d5-4a76-8482-6db6205769db)
+
+
 ## Usage
 1. Clone the repository:
    ```bash
